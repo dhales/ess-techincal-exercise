@@ -1,0 +1,143 @@
+{
+    "associates": [{
+            "id": 1,
+            "first_name": "Adaline",
+            "last_name": "Zanni",
+            "email": "azanni0@kickstarter.com",
+            "Department": "Training"
+        },
+        {
+            "id": 2,
+            "first_name": "Bondon",
+            "last_name": "Whall",
+            "email": "bwhall1@ebay.com",
+            "Department": "Research and Development"
+        },
+        {
+            "id": 3,
+            "first_name": "Winthrop",
+            "last_name": "Blumire",
+            "email": "wblumire2@biblegateway.com",
+            "Department": "Product Management"
+        },
+        {
+            "id": null,
+            "first_name": "Mala",
+            "last_name": "Westpfel",
+            "email": "mwestpfel3@cloudflare.com",
+            "Department": "Engineering"
+        },
+        {
+            "id": 5,
+            "first_name": "Henderson",
+            "last_name": "Frude",
+            "email": "hfrude4@tmall.com",
+            "Department": "Research and Development"
+        },
+        {
+            "id": null,
+            "first_name": "Em",
+            "last_name": "Syrett",
+            "email": "esyrett5@sun.com",
+            "Department": null
+        },
+        {
+            "id": 7,
+            "first_name": "Pate",
+            "last_name": "Renton",
+            "email": "prenton6@nyu.edu",
+            "Department": null
+        },
+        {
+            "id": null,
+            "first_name": "Gerri",
+            "last_name": "Doggrell",
+            "email": "gdoggrell7@gizmodo.com",
+            "Department": "Legal"
+        },
+        {
+            "id": 9,
+            "first_name": "Margaretta",
+            "last_name": "Isakovic",
+            "email": "misakovic8@amazon.com",
+            "Department": "Legal"
+        },
+        {
+            "id": null,
+            "first_name": "Sherill",
+            "last_name": "Ossulton",
+            "email": "sossulton9@cargocollective.com",
+            "Department": "Business Development"
+        },
+        {
+            "id": 11,
+            "first_name": "Garvin",
+            "last_name": "Maidment",
+            "email": "gmaidmenta@apple.com",
+            "Department": "Support"
+        },
+        {
+            "id": 12,
+            "first_name": "Porty",
+            "last_name": "Gartrell",
+            "email": "pgartrellb@ameblo.jp",
+            "Department": "Business Development"
+        },
+        {
+            "id": 13,
+            "first_name": "Dode",
+            "last_name": "Pollendine",
+            "email": "dpollendinec@washingtonpost.com",
+            "Department": null
+        },
+        {
+            "id": 14,
+            "first_name": "Bridgette",
+            "last_name": "Hardesty",
+            "email": "bhardestyd@blog.com",
+            "Department": "Accounting"
+        },
+        {
+            "id": null,
+            "first_name": "Candida",
+            "last_name": "Austin",
+            "email": "caustine@hubpages.com",
+            "Department": "Legal"
+        },
+        {
+            "id": 16,
+            "first_name": "Atlante",
+            "last_name": "Honsch",
+            "email": "ahonschf@blogtalkradio.com",
+            "Department": "Support"
+        },
+        {
+            "id": 17,
+            "first_name": "Doe",
+            "last_name": "Mille",
+            "email": "dmilleg@foxnews.com",
+            "Department": "Business Development"
+        },
+        {
+            "id": 18,
+            "first_name": "Sharyl",
+            "last_name": "Romeril",
+            "email": "sromerilh@woothemes.com",
+            "Department": "Research and Development"
+        },
+        {
+            "id": 19,
+            "first_name": "Yorgo",
+            "last_name": "Goodwyn",
+            "email": "ygoodwyni@drupal.org",
+            "Department": null
+        },
+        {
+            "id": 20,
+            "first_name": "Norman",
+            "last_name": "Longbottom",
+            "email": "nlongbottomj@bigcartel.com",
+            "Department": "Sales"
+        }
+    ]
+}
