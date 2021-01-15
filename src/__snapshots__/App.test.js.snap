@@ -1,0 +1,336 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Extra Space Storage technical challenge 1`] = `
+<div>
+  <div
+    class="makeStyles-root-1"
+  >
+    <header
+      class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+      >
+        <button
+          aria-label="menu"
+          class="MuiButtonBase-root MuiIconButton-root makeStyles-menuButton-2 MuiIconButton-colorInherit MuiIconButton-edgeStart"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <h6
+          class="MuiTypography-root makeStyles-title-3 MuiTypography-h6"
+        >
+          Welcome! Please Login.
+        </h6>
+      </div>
+    </header>
+  </div>
+  <div
+    class="makeStyles-root-7"
+  >
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-lg-true"
+        >
+          <h2
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+          >
+            Thanks for taking this technical challenge for Extra Space Storage. Please follow these instructions carefully
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-lg-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            You have an application with 3 components:
+            <br />
+            <ol>
+              <li>
+                MainMenu: Displays different options like "home" and "login/logout", also has a welcome message.
+              </li>
+              <li>
+                HomePage: Home for this app, it shows test instructions.
+              </li>
+              <li>
+                Footer: Empty
+              </li>
+            </ol>
+            Also, it has a fake database file called db.json in the root folder, it's serve with yarn start:server.
+            <br />
+            <br />
+            You have 3 days to complete this challenge.
+            <br />
+            <br />
+            You can perform your own research but don't "copy/paste" code, by submitting this challenge you are allowing Extra Space Storage to review your code.
+            <br />
+            <br />
+            Be original, follow coding best practices, you can use any legal technology you like.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-lg-true"
+        >
+          <h1
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Complete given tasks (as many as you can)
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+          >
+            1
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            <strong>
+              User List
+            </strong>
+            <ul>
+              <li>
+                From the backend api, get a list of 20 associates (run the provided server).
+              </li>
+              <li>
+                Create an "Associates" component and display each associate's full name (first + last name) and department, in a table.
+              </li>
+              <li>
+                If an associate has fields with null data, his name should appear in red color.
+              </li>
+              <li>
+                Your "Associates" component should be accessible from a menu option in MainMenu.
+              </li>
+              <li>
+                If you click "Home" in MainMenu it should send you back to the home page.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+          >
+            2
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            <strong>
+              Login Modal:
+            </strong>
+            <ul>
+              <li>
+                Create a modal window to simulate login, it should request user name.
+              </li>
+              <li>
+                it should be called from MainMenu Login button.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+          >
+            3
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            <strong>
+              Create login/logout logic:
+            </strong>
+            <ul>
+              <li>
+                By default, the user should be logout.
+              </li>
+              <li>
+                Add a logout button in the Footer component.
+              </li>
+              <li>
+                On logout, the MainMenu welcome message should say: "Welcome! Please Login.", all login buttons labels should say "login", Associates component cannot be accessed (it's private) and if you click a login button it should open the login modal.
+              </li>
+              <li>
+                On login, the MainMenu welcome message should say: "Welcome! + user name (saved from login modal).", all login buttons labels should say "logout", Associates component should be available and if you click a logout button it should trigger logout events.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+          >
+            4
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            <strong>
+              Send your code!!!
+            </strong>
+            <ol>
+              <li>
+                Create a repository, upload your code and share it with us.
+              </li>
+              <li>
+                The app should run fine after getting the repo and running yarn install / start:server / start.
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circle MuiAvatar-colorDefault"
+          >
+            !!!
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            <strong>
+              IF YOU WANT EXTRA POINTS!!!
+            </strong>
+            <ul>
+              <li>
+                If you select a row in the table inside the "Associates" component, display selected associate name and email in the "Footer" component.
+              </li>
+              <li>
+                You can't select associates with null data.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="makeStyles-root-9"
+  >
+    <header
+      class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+      >
+        <div>
+          <h6
+            class="MuiTypography-root makeStyles-title-10 MuiTypography-h6"
+          />
+        </div>
+      </div>
+    </header>
+  </div>
+</div>
+`;
